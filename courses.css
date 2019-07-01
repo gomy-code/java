@@ -1,0 +1,75 @@
+#a154{
+   background-color: black;
+   font-size: 28px ;
+   color: white;
+   width: 50 px;
+   height: 600px;
+
+}
+body{
+  background-image:  
+Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+Linear-gradient(127deg, black, black 70.71%),
+
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+#block1{
+    margin-top: 75px
+}
+a{
+    margin-left: 12px;
+    margin-right: 12px;
+    font-size: 50px ;
+    color: antiquewhite;
+}
+a:hover{
+    color: black;
+}
+/* #image{
+    display: inline;
+    background-size: cover;
+    overflow: hidden;
+}
+#image:hover{
+ color: black;
+} */
+.blockc{
+    font-size: 60px;
+    color: white;
+}
+a:link{
+    text-decoration: none;
+}
+.image1:hover{
+  visibility: hidden;
+}
+.image2:hover{
+    visibility: hidden;
+  }
+  .image3:hover{
+    visibility: hidden;
+  }
+  .image4:hover{
+    visibility: hidden;
+  }
+  .image5:hover{
+    visibility: hidden;
+  }
+  .image6:hover{
+    visibility: hidden;
+  }
+  .image7:hover{
+    visibility: hidden;
+  }
+  .image8:hover{
+    visibility: hidden;
+  }
+  .feedback{
+    height: 0px;
+   font-size: 55px;
+    color: aliceblue;
+  }
+  #block1{
+    color: blue;
+  }
